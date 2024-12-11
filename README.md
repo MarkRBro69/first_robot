@@ -11,18 +11,10 @@ This project consists of an Arduino-based robot equipped with a manipulator and 
 ## Videos 🎥
 
 ### Manipulator Demo
-<video width="600" controls>
-  <source src="https://github.com/MarkRBro69/first_robot/raw/main/vids/manipulator-vid.mp4" type="video/mp4">
-  Your browser does not support the video tag. 
-  <a href="https://github.com/MarkRBro69/first_robot/blob/main/vids/manipulator-vid.mp4">Download Video</a>
-</video>
+[Watch Manipulator Video](https://github.com/MarkRBro69/first_robot/blob/main/vids/manipulator-vid.mp4)
 
 ### Robot Demo
-<video width="600" controls>
-  <source src="https://github.com/MarkRBro69/first_robot/raw/main/vids/robot-vid.mp4" type="video/mp4">
-  Your browser does not support the video tag. 
-  <a href="https://github.com/MarkRBro69/first_robot/blob/main/vids/robot-vid.mp4">Download Video</a>
-</video>
+[Watch Robot Video](https://github.com/MarkRBro69/first_robot/blob/main/vids/robot-vid.mp4)
 
 ## Working Principle ⚙️
 The system creates its own WiFi network, which is used to transmit data between the controller, the robot, and the camera. The communication relies on a set of firmware programs tailored for each component.
