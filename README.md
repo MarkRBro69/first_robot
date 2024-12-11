@@ -70,5 +70,13 @@ The project consists of the following firmware files:
 - Improve the camera’s resolution and streaming performance.
 - Implement obstacle detection and avoidance for autonomous navigation.
 
+## Contributing 🤝
+
+**Contributions are welcome!**  
+Feel free to fork this repository and submit pull requests for:  
+- **New features**  
+- **Bug fixes**  
+- **Performance improvements**  
+
 ## Contact 📧
 For questions or suggestions, contact the project creator, [Mark Brodovsky](https://github.com/MarkRBro69), or reach out via email at markbrodovsky@gmail.com.
