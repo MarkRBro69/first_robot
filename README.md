@@ -8,9 +8,21 @@ This project consists of an Arduino-based robot equipped with a manipulator and 
 - **Manipulator Control:** The robot has a manipulator that can perform predefined tasks.
 - **Camera Streaming:** The robot’s camera streams live video over the WiFi network.
 
-  ## Videos 🎥
-- [Demo Video 1](https://github.com/MarkRBro69/first_robot/blob/main/vids/manipulator-vid.mp4)
-- [Demo Video 2](https://github.com/MarkRBro69/first_robot/blob/main/vids/robot-vid.mp4)
+## Videos 🎥
+
+### Manipulator Demo
+<video width="600" controls>
+  <source src="https://github.com/MarkRBro69/first_robot/raw/main/vids/manipulator-vid.mp4" type="video/mp4">
+  Your browser does not support the video tag. 
+  <a href="https://github.com/MarkRBro69/first_robot/blob/main/vids/manipulator-vid.mp4">Download Video</a>
+</video>
+
+### Robot Demo
+<video width="600" controls>
+  <source src="https://github.com/MarkRBro69/first_robot/raw/main/vids/robot-vid.mp4" type="video/mp4">
+  Your browser does not support the video tag. 
+  <a href="https://github.com/MarkRBro69/first_robot/blob/main/vids/robot-vid.mp4">Download Video</a>
+</video>
 
 ## Working Principle ⚙️
 The system creates its own WiFi network, which is used to transmit data between the controller, the robot, and the camera. The communication relies on a set of firmware programs tailored for each component.
